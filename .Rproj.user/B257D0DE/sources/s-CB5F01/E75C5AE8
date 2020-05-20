@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589915584834.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E75C5AE8",
+    "lastKnownWriteTime" : 1589916810,
+    "last_content_update" : 1589916810963,
+    "path" : "/Volumes/GoogleDrive/My Drive/R Projects/stack_overflow/stack_overflow_questions/20200519_axis_label_specifications_in_ggplot.R",
+    "project_path" : "20200519_axis_label_specifications_in_ggplot.R",
+    "properties" : {
+        "cursorPosition" : "0,82",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
